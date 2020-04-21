@@ -13,7 +13,7 @@ int main(void){
     }
     else 
     {
-        cout << "Error: input needs to be a positive interger smaller than 128.";
+        cout << "Error: input needs to be a positive interger smaller than 128. maat";
         return 1;
     }
 }
